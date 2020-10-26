@@ -1,5 +1,7 @@
 # Zombies-Vs-Human-v1.2-HotFiX-
 
+New and Stable version Thanks Abyass Morgan: https://github.com/itsOwen/Zombies-Vs-Humans-Apocalypse
+
 // *New Feautres: v1.2
 
 // note : I released this version too fast because the previous version was having a lot of bugs.
